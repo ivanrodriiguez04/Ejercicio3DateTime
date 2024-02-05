@@ -18,14 +18,14 @@
             DateTime fechaActual = DateTime.Now;
             DateTime fechaModificada=fechaActual.AddDays(1).AddMonths(-24).AddYears(anyos);
             Console.WriteLine(fechaModificada.ToString());
-            int comprobacion=fechaModificada.CompareTo(fechaActual);
+            int comprobacion=fechaActual.CompareTo(fechaModificada);
             if (comprobacion > 0)
             {
-                Console.WriteLine("La fecha modificada el mayor a la fecha actual");
+                Console.WriteLine("El hoy es más grande");
             }
             else 
             {
-                Console.WriteLine("La fecha actual el mayor a la fecha modificada");
+                Console.WriteLine("El hoy es más pequeño");
             }
         }
     }

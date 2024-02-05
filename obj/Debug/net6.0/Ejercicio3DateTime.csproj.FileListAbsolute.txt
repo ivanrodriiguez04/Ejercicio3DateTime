@@ -1,0 +1,14 @@
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\Ejercicio3DateTime\bin\Debug\net6.0\Ejercicio3DateTime.exe
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\Ejercicio3DateTime\bin\Debug\net6.0\Ejercicio3DateTime.deps.json
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\Ejercicio3DateTime\bin\Debug\net6.0\Ejercicio3DateTime.runtimeconfig.json
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\Ejercicio3DateTime\bin\Debug\net6.0\Ejercicio3DateTime.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\Ejercicio3DateTime\bin\Debug\net6.0\Ejercicio3DateTime.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\Ejercicio3DateTime\obj\Debug\net6.0\Ejercicio3DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\Ejercicio3DateTime\obj\Debug\net6.0\Ejercicio3DateTime.AssemblyInfoInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\Ejercicio3DateTime\obj\Debug\net6.0\Ejercicio3DateTime.AssemblyInfo.cs
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\Ejercicio3DateTime\obj\Debug\net6.0\Ejercicio3DateTime.csproj.CoreCompileInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\Ejercicio3DateTime\obj\Debug\net6.0\Ejercicio3DateTime.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\Ejercicio3DateTime\obj\Debug\net6.0\refint\Ejercicio3DateTime.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\Ejercicio3DateTime\obj\Debug\net6.0\Ejercicio3DateTime.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\Ejercicio3DateTime\obj\Debug\net6.0\Ejercicio3DateTime.genruntimeconfig.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\Ejercicio3DateTime\obj\Debug\net6.0\ref\Ejercicio3DateTime.dll
